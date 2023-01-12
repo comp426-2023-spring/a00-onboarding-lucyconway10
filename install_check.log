@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin lucys-mbp-5.wireless-1x.unc.edu 21.4.0 Darwin Kernel Version 21.4.0: Fri Mar 18 00:45:05 PDT 2022; root:xnu-8020.101.4~15/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.30.1 (Apple Git-130)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Feb 12 2022 04:26:50)
+CURL:	[/Users/lucyconway/opt/anaconda3/bin/curl] curl 7.82.0 (x86_64-apple-darwin13.4.0) libcurl/7.82.0 OpenSSL/1.1.1n zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/lucyconway/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
